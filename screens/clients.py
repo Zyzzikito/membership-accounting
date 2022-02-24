@@ -1,6 +1,6 @@
 from kivy.uix.screenmanager import Screen
 from kivy.uix.screenmanager import SlideTransition
-
+import gspread
 
 class Clients(Screen):
 
